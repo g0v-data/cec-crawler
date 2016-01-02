@@ -1,5 +1,5 @@
 {
-  "name": "ece-crawler",
+  "name": "cec-crawler",
   "version": "0.0.1",
   "description": "Central Election Commission Crawler",
   "main": "index.js",
